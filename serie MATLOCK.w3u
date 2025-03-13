@@ -6,8 +6,13 @@
 "info": "bY Af1cionados",
 "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
 "telegram": "@YIsus_mEx",
-"stations":[
+"groups":[
 
+{
+"name": "TEMPORADA 1",
+"image": "https://pics.filmaffinity.com/matlock-561843294-large.jpg",
+"stations": 
+[
 {
 "name": "CAPITULO 1",
 "image": "https://pics.filmaffinity.com/matlock-561843294-large.jpg",
@@ -103,28 +108,138 @@
 "isHost": "true",
 "online": "true",
 "import": false
+},
+{
+"name": "CAPITULO 9",
+"image": "https://pics.filmaffinity.com/matlock-561843294-large.jpg",
+"url": "",
+"info": "[Español 2024]",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 10",
+"image": "https://pics.filmaffinity.com/matlock-561843294-large.jpg",
+"url": "",
+"info": "[Español 2024]",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+}
+]
+},
+
+{
+"name": "TEMPORADA 2",
+"image": "https://pics.filmaffinity.com/matlock-561843294-large.jpg",
+"stations": 
+[
+{
+"name": "CAPITULO 1",
+"image": "https://pics.filmaffinity.com/matlock-561843294-large.jpg",
+"url": "",
+"info": "[Español 2024]",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 2",
+"image": "https://pics.filmaffinity.com/matlock-561843294-large.jpg",
+"url": "",
+"info": "[Español 2024]",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 3",
+"image": "https://pics.filmaffinity.com/matlock-561843294-large.jpg",
+"url": "",
+"info": "[Español 2024]",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 4",
+"image": "https://pics.filmaffinity.com/matlock-561843294-large.jpg",
+"url": "",
+"info": "[Español 2024]",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 5",
+"image": "https://pics.filmaffinity.com/matlock-561843294-large.jpg",
+"url": "",
+"info": "[Español 2024]",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 6",
+"image": "https://pics.filmaffinity.com/matlock-561843294-large.jpg",
+"url": "",
+"info": "[Español 2024]",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 7",
+"image": "https://pics.filmaffinity.com/matlock-561843294-large.jpg",
+"url": "",
+"info": "[Español 2024]",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 8",
+"image": "https://pics.filmaffinity.com/matlock-561843294-large.jpg",
+"url": "",
+"info": "[Español 2024]",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+}
+]
 }
 
 ]
 }
-
-
-#EXTM3U
-#EXTINF:-1 tvg-id="0" tvg-name="MATLOCK" tvg-logo="" group-title="CAPITULO 1",ES: (HD) DAZN LALIGA
-https://filemoon.to/d/g9na2ehhoaye/Matlock_1X01.mp4
-#EXTINF:-1 tvg-id="0" tvg-name="MATLOCK" tvg-logo="https://pics.filmaffinity.com/matlock-561843294-large.jpg" group-title="CAPITULO 2",ES: (HD) DAZN LALIGA
-
-#EXTINF:-1 tvg-id="0" tvg-name="MATLOCK" tvg-logo="https://pics.filmaffinity.com/matlock-561843294-large.jpg" group-title="CAPITULO 3",ES: (HD) DAZN LALIGA
-
-#EXTINF:-1 tvg-id="0" tvg-name="MATLOCK" tvg-logo="https://pics.filmaffinity.com/matlock-561843294-large.jpg" group-title="CAPITULO 4",ES: (HD) DAZN LALIGA
-
-#EXTINF:-1 tvg-id="0" tvg-name="MATLOCK" tvg-logo="https://pics.filmaffinity.com/matlock-561843294-large.jpg" group-title="CAPITULO 5",ES: (HD) DAZN LALIGA
-
-#EXTINF:-1 tvg-id="0" tvg-name="MATLOCK" tvg-logo="https://pics.filmaffinity.com/matlock-561843294-large.jpg" group-title="CAPITULO 6",ES: (HD) DAZN LALIGA
-
-#EXTINF:-1 tvg-id="0" tvg-name="MATLOCK" tvg-logo="https://pics.filmaffinity.com/matlock-561843294-large.jpg" group-title="CAPITULO 7",ES: (HD) DAZN LALIGA
-
-#EXTINF:-1 tvg-id="0" tvg-name="MATLOCK" tvg-logo="https://pics.filmaffinity.com/matlock-561843294-large.jpg" group-title="CAPITULO 8",ES: (HD) DAZN LALIGA
-
-
 
