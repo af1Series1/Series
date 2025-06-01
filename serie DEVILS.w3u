@@ -1,0 +1,208 @@
+{
+"name": "DEVILS",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://pastebin.com/Z9D9iSfq",
+"image": "https://images3.alphacoders.com/595/595865.jpg",
+"telegram": "@AdriDeCai",
+"info": "",
+"groups": 
+	[
+    	{
+        "name": "TEMPORADA 1",
+        "image": "https://pics.filmaffinity.com/devils-392272613-large.jpg",
+        "imageScale": "",
+        "info": "",
+        "stations":
+            [
+				{
+       			"name": "EPISODIO 1",
+				"info": "1X01",
+	        	"image": "https://pics.filmaffinity.com/devils-392272613-large.jpg",
+	        	"url": "https://fviplions.com/f/b1t6zewtmlzz",
+        		"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true",
+        		"online": "true"
+				},
+	       		{
+ 	       		"name": "EPISODIO 2",
+				"info": "1X02",
+	        	"image": "https://pics.filmaffinity.com/devils-392272613-large.jpg",
+	        	"url": "https://fviplions.com/f/9rkkvu1dht8i",
+        		"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true",
+        		"online": "true"
+				},
+				{
+       			"name": "EPISODIO 3",
+				"info": "1X03",
+	        	"image": "https://pics.filmaffinity.com/devils-392272613-large.jpg",
+	        	"url": "https://filemoon.sx/d/94kfxynjy312/1x03_Devils__Serie_.avi",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true",
+        		"online": "true"
+				},
+	       		{
+ 	       		"name": "EPISODIO 4",
+				"info": "1X04",
+	        	"image": "https://pics.filmaffinity.com/devils-392272613-large.jpg",
+	        	"url": "https://filemoon.sx/d/jh6dum4wa9rc/1x04_Devils__Serie_.avi",
+        		"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true",
+        		"online": "true"
+				},
+				{
+       			"name": "EPISODIO 5",
+				"info": "1X05",
+	       		"image": "https://pics.filmaffinity.com/devils-392272613-large.jpg",
+	        	"url": "https://filemoon.sx/d/wgezoy6bftof/1x05_Devils__Serie_.avi",
+        		"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true",
+        		"online": "true"
+				},
+	       		{
+ 	       		"name": "EPISODIO 6",
+				"info": "1X06",
+	        	"image": "https://pics.filmaffinity.com/devils-392272613-large.jpg",
+	        	"url": "https://filemoon.sx/d/pr7ci636mv8g/1x06_Devils__Serie_.avi",
+        		"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true",
+        		"online": "true"
+				},
+				{
+       			"name": "EPISODIO 7",
+				"info": "1X07",
+	        	"image": "https://pics.filmaffinity.com/devils-392272613-large.jpg",
+	        	"url": "https://filemoon.sx/d/ri5rrjs5msx5/1x07_Devils__Serie_.avi",
+        		"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true",
+        		"online": "true"
+				},
+	       		{
+ 	       		"name": "EPISODIO 8",
+				"info": "1X08",
+	        	"image": "https://pics.filmaffinity.com/devils-392272613-large.jpg",
+	        	"url": "https://filemoon.sx/d/hrc93aivnexz/1x08_Devils__Serie_.avi",
+        		"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true",
+        		"online": "true"
+				},
+				{
+       			"name": "EPISODIO 9",
+				"info": "1X09",
+	        	"image": "https://pics.filmaffinity.com/devils-392272613-large.jpg",
+	        	"url": "https://filemoon.sx/d/kl2g3e590ttu/1x09_Devils__Serie_.avi",
+        		"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true",
+        		"online": "true"
+				},
+	       		{
+ 	       		"name": "EPISODIO 10",
+				"info": "1X10",
+	        	"image": "https://pics.filmaffinity.com/devils-392272613-large.jpg",
+	        	"url": "https://filemoon.sx/d/bvxcveq48sid/1x10_Devils__Serie_.avi",
+        		"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true",
+        		"online": "true"
+				}
+            ]
+        },
+		{
+        "name": "TEMPORADA 2",
+        "image": "https://pics.filmaffinity.com/devils-392272613-large.jpg",
+        "imageScale": "",
+        "info":"",
+        "stations":
+            [
+				{
+       			"name": "EPISODIO 1",
+				"info": "2X01",
+	        	"image": "https://pics.filmaffinity.com/devils-392272613-large.jpg",
+	        	"url": "https://filemoon.sx/d/ri3j9m2n1dhj/Devils_2x01__HDTV_720p_AC3_5.1_Castellano_.mkv",
+        		"userAgent":"PlusMediaPlayer/0.0.9",	
+        		"isHost": "true",
+        		"online": "true"
+			  	},
+	       		{	
+ 	       		"name": "EPISODIO 2",
+	        	"image": "https://pics.filmaffinity.com/devils-392272613-large.jpg",
+	        	"url": "https://filemoon.sx/d/evyjrbl3oyzs/Devils_2x02__HDTV_720p_AC3_5.1_Castellano_.mkv",
+        		"info": "2X02",
+        		"embed": "",
+        		"isHost": "true",
+        		"online": "true",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"import": false
+        		},
+				{
+       			"name": "EPISODIO 3",
+	        	"image": "https://pics.filmaffinity.com/devils-392272613-large.jpg",
+	        	"url": "https://filemoon.sx/d/cb371hi10cxb/Devils_2x03__HDTV_720p_AC3_5.1_Castellano_.mkv",
+        		"info": "2X03",
+        		"embed": "",
+        		"isHost": "true",
+        		"online": "true",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"import": false
+        		},
+	      	 	{
+ 	       		"name": "EPISODIO 4",
+	        	"image": "https://pics.filmaffinity.com/devils-392272613-large.jpg",
+	        	"url": "https://filemoon.sx/d/sg341rcyz11f/Devils_2x04__HDTV_720p_AC3_5.1_Castellano_.mkv",
+        		"info": "2X04",
+        		"embed": "",
+        		"isHost": "true",
+        		"online": "true",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"import": false
+        		},
+				{
+       			"name": "EPISODIO 5",
+	        	"image": "https://pics.filmaffinity.com/devils-392272613-large.jpg",
+	        	"url": "https://filemoon.sx/d/8jtmhazmccjo/Devils_2x05__HDTV_720p_AC3_5.1_Castellano_.mkv",
+        		"info": "2X05",
+        		"embed": "",
+        		"isHost": "true",
+        		"online": "true",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"import": false
+        		},
+	       		{
+ 	       		"name": "EPISODIO 6",
+	        	"image": "https://pics.filmaffinity.com/devils-392272613-large.jpg",
+	        	"url": "https://filemoon.sx/d/99hevi9yhbif/Devils_2x06__HDTV_720p_AC3_5.1_Castellano_.mkv",
+        		"info": "2X06",
+        		"embed": "",
+        		"isHost": "true",
+        		"online": "true",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"import": false
+        		},
+				{
+       			"name": "EPISODIO 7",
+	        	"image": "https://pics.filmaffinity.com/devils-392272613-large.jpg",
+	        	"url": "https://filemoon.sx/d/guonhaddq1k8/Devils_2x07__HDTV_720p_AC3_5.1_Castellano_.mkv",
+        		"info": "2X07",
+        		"embed": "",
+        		"isHost": "true",
+        		"online": "true",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"import": false
+        		},
+	       		{
+ 	       		"name": "EPISODIO 8",
+	        	"image": "https://pics.filmaffinity.com/devils-392272613-large.jpg",
+	        	"url": "https://filemoon.sx/d/aapj4h6jpreq/Devils_2x08__HDTV_720p_AC3_5.1_Castellano_.mkv",
+        		"info": "2X08",
+        		"embed": "",
+        		"isHost": "true",
+        		"online": "true",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"import": false
+        		}
+            ]
+        }
+	]
+}
+
+
+
