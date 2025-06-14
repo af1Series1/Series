@@ -11,8 +11,8 @@
 	"name": "CASTELLANO",
 	"image": "https://pics.filmaffinity.com/devils-392272613-large.jpg",
 	"groups":
+	[
 	{
-    	{
         "name": "TEMPORADA 1",
         "image": "https://pics.filmaffinity.com/devils-392272613-large.jpg",
         "imageScale": "",
@@ -213,7 +213,7 @@
 	"name": "VOSE",
 	"image": "https://pics.filmaffinity.com/devils-392272613-large.jpg",
 	"groups":
-	{
+	[
     	{
         "name": "TEMPORADA 1",
         "image": "https://pics.filmaffinity.com/devils-392272613-large.jpg",
