@@ -118,8 +118,8 @@
 },
 {
 "name": "CAPITULO 2",
-"image": "",
-"url": "",
+"image": "https://i.postimg.cc/sXn7qftm/alloallo1.jpg",
+"url": "https://filemoon.to/d/ah60yvw3z1nz/Ver__Allo__Allo!_2x2_online_en_castellano_-_HDFull.tv.mp4",
 "info": "[Español 1982]",
 "userAgent":"PlusMediaPlayer/0.0.9",
 "referer": "",
@@ -130,8 +130,8 @@
 },
 {
 "name": "CAPITULO 3",
-"image": "",
-"url": "",
+"image": "https://i.postimg.cc/sXn7qftm/alloallo1.jpg",
+"url": "https://filemoon.to/d/wbdu2r0q6gv1/Ver__Allo__Allo!_2x3_online_en_castellano_-_HDFull.tv.mp4",
 "info": "[Español 1982]",
 "userAgent":"PlusMediaPlayer/0.0.9",
 "referer": "",
@@ -142,8 +142,8 @@
 },
 {
 "name": "CAPITULO 4",
-"image": "",
-"url": "",
+"image": "https://i.postimg.cc/sXn7qftm/alloallo1.jpg",
+"url": "https://filemoon.to/d/6nmem8jvochn/Ver__Allo__Allo!_2x4_online_en_castellano_-_HDFull.tv.mp4",
 "info": "[Español 1982]",
 "userAgent":"PlusMediaPlayer/0.0.9",
 "referer": "",
@@ -154,8 +154,8 @@
 },
 {
 "name": "CAPITULO 5",
-"image": "",
-"url": "",
+"image": "https://i.postimg.cc/sXn7qftm/alloallo1.jpg",
+"url": "https://filemoon.to/d/350m2jldspk1/Ver__Allo__Allo!_2x5_online_en_castellano_-_HDFull.tv.mp4",
 "info": "[Español 1982]",
 "userAgent":"PlusMediaPlayer/0.0.9",
 "referer": "",
@@ -166,8 +166,8 @@
 },
 {
 "name": "CAPITULO 6",
-"image": "",
-"url": "",
+"image": "https://i.postimg.cc/sXn7qftm/alloallo1.jpg",
+"url": "https://filemoon.to/d/5hilqn5rt3wh/Ver__Allo__Allo!_2x6_online_en_castellano_-_HDFull.tv.mp4",
 "info": "[Español 1982]",
 "userAgent":"PlusMediaPlayer/0.0.9",
 "referer": "",
@@ -175,22 +175,18 @@
 "isHost": "true",
 "online": "true",
 "import": false
+}
+]
 },
+
 {
-"name": "CAPITULO 7",
-"image": "",
-"url": "",
-"info": "[Español 1982]",
-"userAgent":"PlusMediaPlayer/0.0.9",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
+"name": "TEMPORADA 3",
+"image": "ttps://i.postimg.cc/sXn7qftm/alloallo1.jpg",
+"stations": 
+[
 {
-"name": "CAPITULO 8",
-"image": "",
+"name": "CAPITULO 1",
+"image": "ttps://i.postimg.cc/sXn7qftm/alloallo1.jpg",
 "url": "",
 "info": "[Español 1982]",
 "userAgent":"PlusMediaPlayer/0.0.9",
@@ -202,6 +198,7 @@
 }
 ]
 }
+
 
 ]
 }
