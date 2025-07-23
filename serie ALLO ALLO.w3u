@@ -195,10 +195,149 @@
 "isHost": "true",
 "online": "true",
 "import": false
+},
+{
+"name": "CAPITULO 2",
+"image": "ttps://i.postimg.cc/sXn7qftm/alloallo1.jpg",
+"url": "",
+"info": "[Español 1982]",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 3",
+"image": "ttps://i.postimg.cc/sXn7qftm/alloallo1.jpg",
+"url": "",
+"info": "[Español 1982]",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 4",
+"image": "ttps://i.postimg.cc/sXn7qftm/alloallo1.jpg",
+"url": "",
+"info": "[Español 1982]",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 5",
+"image": "ttps://i.postimg.cc/sXn7qftm/alloallo1.jpg",
+"url": "",
+"info": "[Español 1982]",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 6",
+"image": "ttps://i.postimg.cc/sXn7qftm/alloallo1.jpg",
+"url": "",
+"info": "[Español 1982]",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+}
+]
+},
+
+{
+"name": "TEMPORADA 4",
+"image": "ttps://i.postimg.cc/sXn7qftm/alloallo1.jpg",
+"stations": 
+[
+{
+"name": "CAPITULO 1",
+"image": "ttps://i.postimg.cc/sXn7qftm/alloallo1.jpg",
+"url": "",
+"info": "[Español 1982]",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 2",
+"image": "ttps://i.postimg.cc/sXn7qftm/alloallo1.jpg",
+"url": "",
+"info": "[Español 1982]",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 3",
+"image": "ttps://i.postimg.cc/sXn7qftm/alloallo1.jpg",
+"url": "",
+"info": "[Español 1982]",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 4",
+"image": "ttps://i.postimg.cc/sXn7qftm/alloallo1.jpg",
+"url": "",
+"info": "[Español 1982]",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 5",
+"image": "ttps://i.postimg.cc/sXn7qftm/alloallo1.jpg",
+"url": "",
+"info": "[Español 1982]",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 6",
+"image": "ttps://i.postimg.cc/sXn7qftm/alloallo1.jpg",
+"url": "",
+"info": "[Español 1982]",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
 }
 ]
 }
-
 
 ]
 }
