@@ -21,14 +21,38 @@
 },
 {
 "name": "TEMPORADA 3",
-"image": "ttps://pics.filmaffinity.com/the_vampire_diaries-912122065-large.jpg",
+"image": "https://pics.filmaffinity.com/the_vampire_diaries-912122065-large.jpg",
 "url": "https://raw.githubusercontent.com/af1Series1/Series/refs/heads/main/serie%20CRONICAS%20VAMPIRICAS%20Season%2003.w3u",
 "info":
 },
 {
 "name": "TEMPORADA 4",
-"image": "ttps://pics.filmaffinity.com/the_vampire_diaries-912122065-large.jpg",
+"image": "https://pics.filmaffinity.com/the_vampire_diaries-912122065-large.jpg",
 "url": "https://raw.githubusercontent.com/af1Series1/Series/refs/heads/main/serie%20CRONICAS%20VAMPIRICAS%20Season%2004.w3u",
+"info":
+},
+{
+"name": "TEMPORADA 5",
+"image": "ttps://pics.filmaffinity.com/the_vampire_diaries-912122065-large.jpg",
+"url": "",
+"info":
+},
+{
+"name": "TEMPORADA 6",
+"image": "ttps://pics.filmaffinity.com/the_vampire_diaries-912122065-large.jpg",
+"url": "",
+"info":
+},
+{
+"name": "TEMPORADA 7",
+"image": "ttps://pics.filmaffinity.com/the_vampire_diaries-912122065-large.jpg",
+"url": "",
+"info":
+},
+{
+"name": "TEMPORADA 8",
+"image": "ttps://pics.filmaffinity.com/the_vampire_diaries-912122065-large.jpg",
+"url": "",
 "info":
 }
 
