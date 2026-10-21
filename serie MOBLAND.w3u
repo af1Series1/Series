@@ -12,7 +12,7 @@
 {
 "name": "TEMPORADA 1",
 "image": "https://pics.filmaffinity.com/mobland-472513611-large.jpg",
-"info": ""
+"stations": 
 [
 {
 "name": "CAPITULO 1",
@@ -140,7 +140,7 @@
 {
 "name": "TEMPORADA 2",
 "image": "https://pics.filmaffinity.com/mobland-472513611-large.jpg",
-"info": ""
+"stations": 
 [
 {
 "name": "CAPITULO 1",
