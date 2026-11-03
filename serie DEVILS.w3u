@@ -8,11 +8,6 @@
 "groups": 
 	[
 	{
-	"name": "CASTELLANO",
-	"image": "https://pics.filmaffinity.com/devils-392272613-large.jpg",
-	"groups":
-	[
-	{
         "name": "TEMPORADA 1",
         "image": "https://pics.filmaffinity.com/devils-392272613-large.jpg",
         "imageScale": "",
@@ -109,15 +104,16 @@
         	"isHost": "true",
         	"online": "true"
 		}
-            ]
-        },
+        ]
+    },
+
 	{
         "name": "TEMPORADA 2",
         "image": "https://pics.filmaffinity.com/devils-392272613-large.jpg",
         "imageScale": "",
         "info":"",
         "stations":
-            [
+        [
 		{
        		"name": "EPISODIO 1",
 		"info": "2X01",
@@ -204,212 +200,8 @@
 		"userAgent":"PlusMediaPlayer/0.0.9",
         	"import": false
         	}
-            ]
-        }
-	]
-	},
-
-	{
-	"name": "VOSE",
-	"image": "https://pics.filmaffinity.com/devils-392272613-large.jpg",
-	"groups":
-	[
-    	{
-        "name": "TEMPORADA 1",
-        "image": "https://pics.filmaffinity.com/devils-392272613-large.jpg",
-        "imageScale": "",
-        "info": "",
-        "stations":
-            [
-		{
-       		"name": "EPISODIO 1",
-		"info": "1X01",
-	        "image": "https://pics.filmaffinity.com/devils-392272613-large.jpg",
-	        "url": "https://filemoon.to/d/3bz3oa5lumxi/Ver_Devils_1x1_online_en_subtitulado_-_HDFull.tv.mp4",
-        	"userAgent":"PlusMediaPlayer/0.0.9",
-        	"isHost": "true",
-        	"online": "true"
-		},
-	       	{
- 	       	"name": "EPISODIO 2",
-		"info":"1X02",
-	        "image": "https://pics.filmaffinity.com/devils-392272613-large.jpg",
-	        "url": "https://filemoon.to/d/sn8hwdcdc17z/Ver_Devils_1x2_online_en_subtitulado_-_HDFull.tv.mp4",
-        	"userAgent":"PlusMediaPlayer/0.0.9",
-        	"isHost": "true",
-        	"online": "true"
-		},
-		{
-       		"name": "EPISODIO 3",
-		"info": "1X03",
-	        "image": "https://pics.filmaffinity.com/devils-392272613-large.jpg",
-	        "url": "https://filemoon.to/d/94ob2u4glngy/Ver_Devils_1x3_online_en_subtitulado_-_HDFull.tv.mp4",
-		"userAgent":"PlusMediaPlayer/0.0.9",
-        	"isHost": "true",
-        	"online": "true"
-		},
-	       	{
- 	       	"name": "EPISODIO 4",
-		"info": "1X04",
-	        "image": "https://pics.filmaffinity.com/devils-392272613-large.jpg",
-	        "url": "https://filemoon.to/d/2ffdswskcsyv/Ver_Devils_1x4_online_en_subtitulado_-_HDFull.tv.mp4",
-        	"userAgent":"PlusMediaPlayer/0.0.9",
-        	"isHost": "true",
-        	"online": "true"
-		},
-		{
-       		"name": "EPISODIO 5",
-		"info": "1X05",
-	       	"image": "https://pics.filmaffinity.com/devils-392272613-large.jpg",
-	        "url": "https://filemoon.to/d/3izs68nt9cot/Ver_Devils_1x5_online_en_subtitulado_-_HDFull.tv.mp4",
-        	"userAgent":"PlusMediaPlayer/0.0.9",
-        	"isHost": "true",
-        	"online": "true"
-		},
-	       	{
- 	       	"name": "EPISODIO 6",
-		"info": "1X06",
-	        "image": "https://pics.filmaffinity.com/devils-392272613-large.jpg",
-	        "url": "https://filemoon.to/d/eq11zp8iulkx/Ver_Devils_1x6_online_en_subtitulado_-_HDFull.tv.mp4",
-        	"userAgent":"PlusMediaPlayer/0.0.9",
-        	"isHost": "true",
-        	"online": "true"
-		},
-		{
-       		"name": "EPISODIO 7",
-		"info": "1X07",
-	        "image": "https://pics.filmaffinity.com/devils-392272613-large.jpg",
-	        "url": "https://filemoon.to/d/ocr5efd40seu/Ver_Devils_1x7_online_en_subtitulado_-_HDFull.tv.mp4",
-        	"userAgent":"PlusMediaPlayer/0.0.9",
-        	"isHost": "true",
-        	"online": "true"
-		},
-	       	{ 	       	
-		"name": "EPISODIO 8",
-		"info": "1X08",
-	        "image": "https://pics.filmaffinity.com/devils-392272613-large.jpg",
-	        "url": "https://filemoon.to/d/s9j1bmsxpy5u/Ver_Devils_1x8_online_en_subtitulado_-_HDFull.tv.mp4",
-        	"userAgent":"PlusMediaPlayer/0.0.9",
-        	"isHost": "true",
-        	"online": "true"
-		},
-		{
-       		"name": "EPISODIO 9",
-		"info": "1X09",
-	        "image": "https://pics.filmaffinity.com/devils-392272613-large.jpg",
-	        "url": "https://filemoon.to/d/1id5vdbhy3gt/Ver_Devils_1x9_online_en_subtitulado_-_HDFull.tv.mp4",
-        	"userAgent":"PlusMediaPlayer/0.0.9",
-        	"isHost": "true",
-        	"online": "true"
-		},
-	       	{
- 	       	"name": "EPISODIO 10",
-		"info": "1X10",
-	        "image": "https://pics.filmaffinity.com/devils-392272613-large.jpg",
-	        "url": "https://filemoon.to/d/fp1ff5egewti/Ver_Devils_1x10_online_en_subtitulado_-_HDFull.tv.mp4",
-        	"userAgent":"PlusMediaPlayer/0.0.9",
-        	"isHost": "true",
-        	"online": "true"
-		}
-            ]
-        },
-	{
-        "name": "TEMPORADA 2",
-        "image": "https://pics.filmaffinity.com/devils-392272613-large.jpg",
-        "imageScale": "",
-        "info":"",
-        "stations":
-            [
-		{
-       		"name": "EPISODIO 1",
-		"info": "2X01",
-	        "image": "https://pics.filmaffinity.com/devils-392272613-large.jpg",
-	        "url": "https://filemoon.to/d/7tinqglskqx4/Ver_Devils_2x1_online_en_subtitulado_-_HDFull.tv.mp4",
-        	"userAgent":"PlusMediaPlayer/0.0.9",	
-        	"isHost": "true",
-        	"online": "true"
-		},
-	       	{	
- 	       	"name": "EPISODIO 2",
-	        "image": "https://pics.filmaffinity.com/devils-392272613-large.jpg",
-	        "url": "https://filemoon.to/d/y54x4z1neswq/Ver_Devils_2x2_online_en_subtitulado_-_HDFull.tv.mp4",
-        	"info": "2X02",
-        	"embed": "",
-        	"isHost": "true",
-        	"online": "true",
-		"userAgent":"PlusMediaPlayer/0.0.9",
-        	"import": false
-        	},
-		{
-       		"name": "EPISODIO 3",
-	        "image": "https://pics.filmaffinity.com/devils-392272613-large.jpg",
-	        "url": "https://filemoon.to/d/0wf34ir99o1z/Ver_Devils_2x3_online_en_subtitulado_-_HDFull.tv.mp4",
-        	"info": "2X03",
-        	"embed": "",
-        	"isHost": "true",
-        	"online": "true",
-		"userAgent":"PlusMediaPlayer/0.0.9",
-        	"import": false
-        	},
-	      	{
- 	       	"name": "EPISODIO 4",
-	        "image": "https://pics.filmaffinity.com/devils-392272613-large.jpg",
-	        "url": "https://filemoon.to/d/yb65jpw3kfdm/Ver_Devils_2x4_online_en_subtitulado_-_HDFull.tv.mp4",
-        	"info": "2X04",
-        	"embed": "",
-        	"isHost": "true",
-        	"online": "true",
-		"userAgent":"PlusMediaPlayer/0.0.9",
-        	"import": false
-        	},
-		{
-       		"name": "EPISODIO 5",
-	        "image": "https://pics.filmaffinity.com/devils-392272613-large.jpg",
-	        "url": "https://filemoon.to/d/m1xlmc9ie2zu/Ver_Devils_2x5_online_en_subtitulado_-_HDFull.tv.mp4",
-        	"info": "2X05",
-        	"embed": "",
-        	"isHost": "true",
-        	"online": "true",
-		"userAgent":"PlusMediaPlayer/0.0.9",
-        	"import": false
-        	},
-	       	{
- 	       	"name": "EPISODIO 6",
-	        "image": "https://pics.filmaffinity.com/devils-392272613-large.jpg",
-	        "url": "https://filemoon.to/d/tsbeqfq08fl4/Ver_Devils_2x6_online_en_subtitulado_-_HDFull.tv.mp4",
-        	"info": "2X06",
-        	"embed": "",
-        	"isHost": "true",
-        	"online": "true",
-		"userAgent":"PlusMediaPlayer/0.0.9",
-        	"import": false
-        	},
-		{
-       		"name": "EPISODIO 7",
-	        "image": "https://pics.filmaffinity.com/devils-392272613-large.jpg",
-	        "url": "https://filemoon.to/d/uuigephx2eve/Ver_Devils_2x7_online_en_subtitulado_-_HDFull.tv.mp4",
-        	"info": "2X07",
-        	"embed": "",
-        	"isHost": "true",
-        	"online": "true",
-		"userAgent":"PlusMediaPlayer/0.0.9",
-        	"import": false
-        	},
-	       	{
- 	       	"name": "EPISODIO 8",
-	        "image": "https://pics.filmaffinity.com/devils-392272613-large.jpg",
-	        "url": "https://filemoon.to/d/hhnk0ip7uhpu/Ver_Devils_2x8_online_en_subtitulado_-_HDFull.tv.mp4",
-        	"info": "2X08",
-        	"embed": "",
-        	"isHost": "true",
-        	"online": "true",
-		"userAgent":"PlusMediaPlayer/0.0.9",
-        	"import": false
-        	}
-            ]
-        }
-	]
-	}
+        ]
+    }
 
 ]
 }
